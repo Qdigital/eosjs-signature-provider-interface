@@ -39,7 +39,7 @@
     "prepublish": "yarn clean-build"
   },
   "dependencies": {
-    "eosjs": "20.0.0",
+    "eosjs": "22.0.0",
     "uuid": "3.3.2"
   },
   "devDependencies": {
